@@ -1,5 +1,5 @@
-# python localize_text_tesseract.py --image apple_support.png
-# python localize_text_tesseract.py --image apple_support.png --min-conf 50
+# python text_tesseract.py --image apple_support.png
+# python text_tesseract.py --image apple_support.png --min-conf 50
 
 from pytesseract import Output
 import pytesseract
